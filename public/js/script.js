@@ -1,4 +1,4 @@
-var API_KEY     = 'AIzaSyAWWmUl2iNij7nKBIQpajWAsDI6IaT9Ymc';
+var API_KEY     = 'AIzaSyAWWmUl2iNij7nKBsdjflisdlfksmdllsdflq';
 var SEARCH_URL  = 'https://www.googleapis.com/youtube/v3/search';
 var MAX_RESULTS = '5';
 
