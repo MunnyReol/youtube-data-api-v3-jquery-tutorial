@@ -1,2 +1,5 @@
-# youtube-data-api-v3-jquery-tutorial
-This repository is related to the source code of YouTube Data API V3 integration using jQuery.
+# YouTube Data API V3 & jQuery Tutorial in Urdu/Hindi
+
+This repository belongs to my playlist related to YouTube Data API V3.
+
+Full video playlist can be found here: https://bit.ly/31TmjMD
