@@ -1,4 +1,4 @@
-var API_KEY     = 'AIzaSyAWWmUl2iNij7nKBsdjflisdlfksmdllsdflq';
+var API_KEY     = 'get your api key from google developer console';
 var SEARCH_URL  = 'https://www.googleapis.com/youtube/v3/search';
 var MAX_RESULTS = '5';
 
